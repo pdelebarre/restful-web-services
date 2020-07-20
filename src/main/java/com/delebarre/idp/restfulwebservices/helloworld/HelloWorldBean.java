@@ -1,4 +1,4 @@
-package helloworld;
+package com.delebarre.idp.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
     private final String message;
